@@ -14,7 +14,7 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 ## Alternatives
 
 ### Search Engines
-i
+
 - [DuckDuckGo](https://duckduckgo.com)
 - [Disconnect](https://disconnect.me/)
 
