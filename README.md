@@ -14,11 +14,11 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 ## Alternatives
 
 ### Search Engines
-
+i
 - [DuckDuckGo](https://duckduckgo.com)
 - [Disconnect](https://disconnect.me/)
 
-*How to configure a new search engine on your browser*
+**How to configure a new search engine on your browser**
 - [Google Chrome](https://support.google.com/chrome/answer/95426?hl=en)
 - [Firefox](https://support.mozilla.org/en-US/kb/change-your-default-search-settings-firefox)
 - [Opera](http://www.opera.com/blogs/news/2014/10/how-to-add-search-engine-to-opera-for-computers/)
