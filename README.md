@@ -24,6 +24,12 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 - [Opera](http://www.opera.com/blogs/news/2014/10/how-to-add-search-engine-to-opera-for-computers/)
 
 
+### IOS Apps
+
+- [ChatSecure](https://itunes.apple.com/us/app/chatsecure/id464200063)
+- [Signal Private Messenger](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
+
+
 ### Android Apps
 
 - [Open Street Maps and Navigation](https://play.google.com/store/apps/details?id=net.osmand) - Alternative to Google Maps
@@ -31,6 +37,7 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 - [DuckDuckGo](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - Alternative to Google Search
 - [Firefox Browser for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) - Alternative to Google Chrome
 - [Orfox: Tor Browser for Android](https://play.google.com/store/apps/details?id=info.guardianproject.orfox) - Alternative to Google Chrome
+- [ChatSecure](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im)
 
 
 ## Internet Browsing
@@ -44,11 +51,13 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 
 ### Google Chrome
 
-We *strongly* reccomend you to change to a Open Source browser
+We *strongly* recommend you to change to a Open Source browser such as Firefox and Chromium
 
 - [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-
+Other interesting fonts about privacy
+[Antivigilancia (pt-br)](http://antivigilancia.org/pt/inicial-pt/)
+[Tem boi na linha (pt-br)](https://temboinalinha.org/)
