@@ -44,9 +44,13 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 
 ### Google Chrome
 
-We *strongly* reccomend you to change to a Open Source browser such as Firefox and Chromium
+We *strongly* recommend you to change to a Open Source browser such as Firefox and Chromium
 
 - [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+Other interesting fonts about privacy
+[Antivigilancia (pt-br)](http://antivigilancia.org/pt/inicial-pt/)
+[Tem boi na linha (pt-br)](https://temboinalinha.org/)
