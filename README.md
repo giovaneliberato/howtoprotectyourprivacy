@@ -24,6 +24,12 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 - [Opera](http://www.opera.com/blogs/news/2014/10/how-to-add-search-engine-to-opera-for-computers/)
 
 
+### IOS Apps
+
+- [ChatSecure](https://itunes.apple.com/us/app/chatsecure/id464200063)
+- [Signal Private Messenger](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
+
+
 ### Android Apps
 
 - [Open Street Maps and Navigation](https://play.google.com/store/apps/details?id=net.osmand) - Alternative to Google Maps
@@ -31,6 +37,7 @@ Here, you will find tips about privacy-friendly software alternatives, descentra
 - [DuckDuckGo](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - Alternative to Google Search
 - [Firefox Browser for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) - Alternative to Google Chrome
 - [Orfox: Tor Browser for Android](https://play.google.com/store/apps/details?id=info.guardianproject.orfox) - Alternative to Google Chrome
+- [ChatSecure](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im)
 
 
 ## Internet Browsing
