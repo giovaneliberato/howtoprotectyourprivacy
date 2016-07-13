@@ -62,5 +62,5 @@ We *strongly* recommend you to change to a Open Source browser such as Firefox a
 - [Ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij)
 
 Other interesting fonts about privacy
-[Antivigilancia (pt-br)](http://antivigilancia.org/pt/inicial-pt/)
-[Tem boi na linha (pt-br)](https://temboinalinha.org/)
+- [Antivigilancia (pt-br)](http://antivigilancia.org/pt/inicial-pt/)
+- [Tem boi na linha (pt-br)](https://temboinalinha.org/)
