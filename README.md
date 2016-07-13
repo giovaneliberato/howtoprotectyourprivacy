@@ -57,7 +57,10 @@ We *strongly* recommend you to change to a Open Source browser such as Firefox a
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf)
+- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+- [Ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij)
 
 Other interesting fonts about privacy
-[Antivigilancia (pt-br)](http://antivigilancia.org/pt/inicial-pt/)
-[Tem boi na linha (pt-br)](https://temboinalinha.org/)
+- [Antivigilancia (pt-br)](http://antivigilancia.org/pt/inicial-pt/)
+- [Tem boi na linha (pt-br)](https://temboinalinha.org/)
